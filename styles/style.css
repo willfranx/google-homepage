@@ -1,0 +1,27 @@
+body {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+.black-text{
+    color: black;
+}
+
+.nav-item:hover{
+    text-decoration: underline;
+}
+
+nav{
+    font-size: 14px;
+}
+
+.apps{
+    height: 24px;
+    width: auto;
+    padding-left: 10px;
+    padding-right: 8px;
+}
+
+.user{
+    height: 32px;
+    width: auto;
+}
