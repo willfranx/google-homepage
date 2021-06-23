@@ -15,10 +15,11 @@ nav{
 }
 
 .apps{
-    height: 24px;
+    height: 16px;
     width: auto;
     padding-left: 10px;
     padding-right: 8px;
+    padding-top: 5px;
 }
 
 .user{
